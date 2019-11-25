@@ -1,4 +1,4 @@
-# Data Anonymizer -
+# Data Anonymizer
 
 # Open Source Data Anonymization Software
 
@@ -64,12 +64,12 @@ Open eclipse and choose import and copy the git url to import the project and
 run it using apache.
 
 You can access the data anonymizer at -
-[http://localhost:8080/DataAnonymizer/page-login.html](http://localhost:8080/DataAnonymizer) _/_ page-login.html
+[http://localhost:8080/DataAnonymizer/page-login.html](http://localhost:8080/DataAnonymizer/page-login.html)
 
 Default details to access data anonymizer are:
-# **username -** admin@iiitb
+```**username -** admin@iiitb
 # **Password -** admin
-
+```
 ## License :
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file
