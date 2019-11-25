@@ -67,8 +67,9 @@ You can access the data anonymizer at -
 [http://localhost:8080/DataAnonymizer/page-login.html](http://localhost:8080/DataAnonymizer/page-login.html)
 
 Default details to access data anonymizer are:
-```username: admin@iiitb
-   Password: admin
+```
+username: admin@iiitb
+Password: admin
 ```
 ## License :
 
